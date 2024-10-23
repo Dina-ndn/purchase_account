@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+access_waaneiza_pur_sett,Waaneiza Purchase Expense Settlement,model_waaneiza_pur_sett,,1,1,1,1
+
+access_waaneiza_pur_info,Waaneiza Purchase Expense Info,model_waaneiza_pur_info,,1,1,1,1
+
+
